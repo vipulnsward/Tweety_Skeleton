@@ -1,6 +1,7 @@
 == DESCRIPTION
 
 This sample application demonstrates an approach for Android "Cloud To Device Messaging" (C2DM).
+Checkout the Tweety_GAEServer for corresponding thrid party app server
 
 == USAGE
 
@@ -51,7 +52,7 @@ The third-party application server stores the registration ID and uses it to ide
 registration ID to application server if you want to receive C2DM messages. This can be handled in the onRegistered()
 
 
-== EXAMPLES ==
+== EXAMPLES
 
 To see an example please launch the Tweety_Clone application in Android device emulator. Run the Tweet_GAEServer on GAE or third party
 server
